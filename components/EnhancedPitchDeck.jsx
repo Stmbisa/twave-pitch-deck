@@ -232,7 +232,8 @@ const InvestmentOpportunity = () => (
           <li>Innovative tech solution with proven traction</li>
           <li>Huge market potential and scalability</li>
           <li>Strong team with industry expertise</li>
-          <li>Aligns with Antler's investment focus on tech-enabled solutions</li>
+          <li>AI and tech-enabled, scalable solution</li>
+          {/* <li>Aligns with Antler&apos;s investment focus on tech-enabled solutions</li> */}
         </ul>
       </div>
     </div>
@@ -241,7 +242,7 @@ const InvestmentOpportunity = () => (
 
 const Contact = () => (
   <Slide title="Contact Us">
-    <p className="mb-4">We'd love to hear from you! Reach out to discuss how TWAVE can revolutionize aquaculture and create sustainable food solutions.</p>
+    <p>We&apos;d love to hear from you! Reach out to discuss how TWAVE can revolutionize aquaculture and create sustainable food solutions.</p>
     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
       <a href="mailto:katumwawilly@gmail.com" className="bg-red-600 text-white py-2 px-4 rounded text-center hover:bg-red-700 transition duration-300">Email Us</a>
       <a href="mailto:kalxcharles@gmail.com" className="bg-red-600 text-white py-2 px-4 rounded text-center hover:bg-red-700 transition duration-300">Email Us</a>
@@ -249,7 +250,7 @@ const Contact = () => (
       <a href="https://wa.me/256783618756" className="bg-green-500 text-white py-2 px-4 rounded text-center hover:bg-green-600 transition duration-300">WhatsApp</a>
     </div>
     <p className="mt-4">Phone: +256 705 719837, +256 783 618756</p>
-    <p>Address: Bombo Road,Teacher's house, Kampala, Uganda</p>
+    <p>Address: Bombo Road,Teachers house, Kampala, Uganda</p>
   </Slide>
 );
 
